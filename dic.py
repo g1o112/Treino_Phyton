@@ -19,4 +19,4 @@ for i in valor:
 
 print('peso' in valor)
 
-# retorna falso pois ele não existe no dicionario
+# retorna falso pois ele não existe no dicionario e outro  true é pq existe 
