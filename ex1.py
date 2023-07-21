@@ -20,7 +20,7 @@ lista2 = [10,20,50]
 lista.extend(lista2)
 # lista ne  e aqui junta as mana
 
-print("Depois do extend", lista)
+print("Depois do extend ", lista)
 
 # pop = remover elemento da posição e se não especificar ele remove o ultimo
 
