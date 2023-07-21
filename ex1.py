@@ -1,7 +1,7 @@
 # append : adiciona na lista. Não funcionando em tupples
 lista = [1, 3, 45, 67]
 
-numero = int(input("Digite: "))
+numero = int(input("Digitee: "))
 
 lista.append(numero)
 print(lista)
